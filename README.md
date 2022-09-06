@@ -1,6 +1,6 @@
 # Countle
 
-This is a solution for countle.org
+This is a solution for (countle.org)[https://countle.org]
 It uses brute force and some minor heuristics.
 
 # Build
